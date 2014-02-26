@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MyScene updateScore]:MyScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "score.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyScene didBeginContact:]:MyScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "score.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyScene touchesBegan:withEvent:]:MyScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "body.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
