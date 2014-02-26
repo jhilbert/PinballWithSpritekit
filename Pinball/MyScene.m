@@ -446,7 +446,7 @@ BOOL ballInTransition;
         
         self.physicsWorld.contactDelegate = self;
    
-      [self drawPhysicsBodies];
+//      [self drawPhysicsBodies];
         
         NSLog(@"Mass of ball %f ", ball.physicsBody.mass);
         
